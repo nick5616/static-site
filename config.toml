@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://blog.saucedog.art'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Writing things down'
 theme = 'netlify-basic'
